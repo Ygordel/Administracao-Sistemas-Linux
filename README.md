@@ -92,8 +92,7 @@ virtuais e ferramentas de apoio, como:
 
 # 📖 Material Complementar
 
-Esta seção reúne referências adicionais utilizadas para ampliar os
-conhecimentos durante os estudos.
+Esta seção reúne referências adicionais utilizadas para ampliar os conhecimentos durante os estudos.
 
 ### 🐧 Debian Handbook
 
@@ -108,8 +107,7 @@ https://debian-handbook.info/browse/pt-BR/stable/
 
 ### ⚙️ Processos UNIX/Linux
 
-Material complementar para estudo dos conceitos relacionados a
-processos em ambientes UNIX/Linux.
+Material complementar para estudo dos conceitos relacionados a processos em ambientes UNIX/Linux.
 
 🔗 Material sobre processos UNIX/Linux
 
@@ -131,8 +129,7 @@ http://www.it.uu.se/datordrift/maskinpark/skrivare/cups/
 
 ### 🐧 Evolução das Distribuições Linux
 
-Material visual para conhecer a evolução histórica e a relação entre
-diferentes distribuições Linux.
+Material visual para conhecer a evolução histórica e a relação entre diferentes distribuições Linux.
 
 🔗 Linux Distribution Timeline
 
@@ -142,8 +139,7 @@ https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.
 
 # 📌 Objetivo do Repositório
 
-Este repositório foi criado para transformar o conteúdo estudado em
-uma base prática de consulta e documentação.
+Este repositório foi criado para transformar o conteúdo estudado em uma base prática de consulta e documentação.
 
 A proposta é registrar:
 
@@ -156,6 +152,3 @@ A proposta é registrar:
 - 📖 Materiais complementares
 - 🔗 Referências para estudos futuros
 
----
-
-s/
