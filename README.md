@@ -115,7 +115,7 @@ https://cis.temple.edu/~giorgio/cis307/readings/unix1.html
 
 ---
 
-### 🖨️ CUPS
+### CUPS
 
 Material complementar sobre o **Common UNIX Printing System (CUPS)**,
 utilizado para gerenciamento de serviços de impressão em sistemas
